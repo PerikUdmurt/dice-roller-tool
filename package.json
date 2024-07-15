@@ -1,0 +1,10 @@
+{
+	"name": "com.unity.dice-roller-tool",
+	"version": "1.0.0",
+	"unity": "2018.1",
+	"description": "This package provides tools for simulating dice rolling",
+	"keywords": ["dice", "roll", "diceroller", "dicerollertool", "dicepackage"],
+	"category": "Your category (TBD)",
+	"dependencies": {
+	}
+}

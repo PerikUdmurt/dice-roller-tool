@@ -1,2 +1,2 @@
-# UPM Package Starter Kit
+# DiceRollerTool
 

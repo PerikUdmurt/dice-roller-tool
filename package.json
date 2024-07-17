@@ -1,10 +1,16 @@
 {
-	"name": "com.example.dice-roller-tool",
-	"version": "1.0.0",
-	"displayName": "Dice Roller Tool",
-	"unity": "2018.1",
-	"description": "This package provides tools for simulating dice rolling",
-	"keywords": ["dice", "roll", "diceroller", "dicerollertool", "dicepackage"],
-	"dependencies": {
-	}
+  "name": "com.perik.dice-roller-tool",
+  "version": "1.0.1",
+  "displayName": "Dice Roller Tool",
+  "unity": "2018.1",
+  "description": "This package provides tools for simulating dice rolling",
+  "keywords": [
+    "dice",
+    "roll",
+    "diceroller",
+    "dicerollertool",
+    "dicepackage"
+  ],
+  "type": "tool",
+  "hideInEditor": false
 }

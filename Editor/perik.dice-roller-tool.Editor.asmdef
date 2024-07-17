@@ -2,12 +2,12 @@
     "name": "EditorAssemblyDefinition",
     "rootNamespace": "",
     "references": [
-        ""
+        "RuntimeAssemblyDefinition"
     ],
-    "includePlatforms": [],
-    "excludePlatforms": [
+    "includePlatforms": [
         "Editor"
     ],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
